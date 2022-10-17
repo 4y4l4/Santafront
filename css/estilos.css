@@ -1,0 +1,43 @@
+body {
+  background-color:#FAE5D3;
+  margin: auto;
+  width: 640px;
+  padding: 50px;
+}
+
+img{
+display:block;
+margin:auto;
+}
+
+.titulo{
+
+  font-size: 450%;
+  color: #E67E22;
+  font-family: fantasy Critter;
+  text-align: center;
+}
+.subtitulo{
+  text-align: center;
+  background-color: #F5B041;
+
+}
+.p{
+  font-size: 120%;
+  font-style: italic;
+  text-align: center;
+}
+.p1{
+  font-size: 150%;
+  font-family: inherit;
+  text-align: center;
+}
+.h {text-align: center;
+font-size: 160%;
+}
+.o {
+    font-family: sans-serif;
+    width: 540px;
+    padding: 50px;
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/148/833/277/spoon-heart-wooden-kitchen-utensils-wallpaper-preview.jpg);
+    }
